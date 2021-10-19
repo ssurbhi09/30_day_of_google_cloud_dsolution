@@ -70,7 +70,7 @@ You can show some love ❤ by giving a star ⭐ and sharing this repo.
 
 
 
-<h3 align="left"> Connect with me 🤝</h3>
+<h3 align="left"> 😁 Connect with me 🤝</h3>
 <p align="left">
 <div class="footer" id="top3">
   <center> 
