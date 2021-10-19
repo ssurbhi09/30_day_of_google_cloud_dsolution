@@ -55,11 +55,6 @@ And last date for completing the task is 27th October 11:59 PM IST.
 <img src = "https://user-images.githubusercontent.com/60788180/134784536-7bea9267-26d0-4564-91d2-f1bdb885ebd6.png"  height="230vh"><img src = "https://user-images.githubusercontent.com/60788180/134784295-eb8a0a13-5740-4ab4-a42f-5d47c638d4de.png"  height="230vh"><img src = "https://user-images.githubusercontent.com/60788180/134784551-9819aea0-348d-472c-86ee-3b36f878da84.png"  height="230vh"><img src = "https://user-images.githubusercontent.com/60788180/134784504-7152962e-d7c7-4688-8d39-01b746e33a51.png"  height="230vh">
 
 
-[How to get Qwiklabs Public profile URL](https://www.youtube.com/watch?v=GyQE-JnylSs&t=190s&ab_)
-
-[30 Days of Google Cloud Info and Intro to Google Cloud](https://www.youtube.com/watch?v=DBcQ4XwrQBM&t=108s&ab_)
-<hr/>
-
 <h4>📍 For any Query:</h4>
 *Reach out to the <b>Qwiklabs Chat Support</b> via the Qwiklabs home page. (You will need to click on the help button "?" alongside your profile icon on the top right corner when logged-in in order to access chat support).
 
