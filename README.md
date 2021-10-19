@@ -67,3 +67,20 @@ You can visit this webiste for more info and FAQs: https://events.withgoogle.com
 <hr/>
 
 You can show some love ❤ by giving a star ⭐ and sharing this repo.
+
+
+
+<h3 align="left">Connect with me 🤝</h3>
+<p align="left">
+<div class="footer" id="top3">
+  <center> 
+  
+   <a href=" https://www.linkedin.com/in/surbhi-shekhar-40b007208 " class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797880-3537a842-ce79-44e1-ba25-1e760f51ef88.png" height="30vh">  </a>
+ <a href="  https://twitter.com/suru_09?t=TzO_qyN7iB0Cr4ZiK_YusA&s=09 class="pics"><img src="https://user-images.githubusercontent.com/60788180/130677206-0f4a593f-a3a8-4d65-ab70-49c86ece5ce2.png" height="30vh">  </a>
+    <a href=" https://github.com/ssurbhi09 " class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797806-016f710c-7c24-4b9d-80ee-b541202646b1.png" height="30vh"></a>
+   <a href="https://youtube.com/channel/UCGD8gcqsjdZ_YMKU2CXLD_g" class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797892-dfe9ff29-c6de-4a31-8f37-8f1a15adedc7.png" height="30vh"></a>
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bcs114@nith.ac.in" class="pics"><img src="https://user-images.githubusercontent.com/60788180/134797841-d9fde958-86d2-46e6-ad94-0289ed608ae4.png" height="30vh"></a>
+ </center>
+  </div>
+</p>
+
