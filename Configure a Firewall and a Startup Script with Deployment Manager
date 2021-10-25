@@ -49,3 +49,7 @@ Last Command -
 
 
 gcloud deployment-manager deployments create test --config=qwiklabs.yaml
+
+
+
+THANKYOU:)
