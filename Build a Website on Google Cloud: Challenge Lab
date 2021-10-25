@@ -41,7 +41,7 @@ kubectl get service products
 
 TASK 5 ----------------------
 
-IN VIDEO
+READ THAT
 
 TASK 6 ----------------------
 
@@ -53,3 +53,7 @@ TASK 7 ----------------------
 
 kubectl create deployment frontend --image=gcr.io/${GOOGLE_CLOUD_PROJECT}/frontend:1.0.0
 kubectl expose deployment frontend --type=LoadBalancer --port 80 --target-port 8080
+
+
+
+Thankyou:)
