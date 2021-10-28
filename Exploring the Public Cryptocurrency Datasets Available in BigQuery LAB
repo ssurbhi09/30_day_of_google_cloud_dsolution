@@ -5,6 +5,7 @@ CREATE OR REPLACE TABLE lab.51 (transaction_hash STRING) as
 SELECT transaction_id FROM `bigquery-public-data.bitcoin_blockchain.transactions` , UNNEST( outputs ) as outputs
 where outputs.output_satoshis = 19499300000000
 
+
 2ND SQL QUERY -----------------------------------------------------------------------------------
 
 CREATE OR REPLACE TABLE lab.52 (balance NUMERIC) as
@@ -26,3 +27,7 @@ SELECT
 sum(value) as balance
 FROM double_entry_book
 where address = "1XPTgDRhN8RFnzniWCddobD9iKZatrvH4"
+
+
+Thankyou!
+:)
