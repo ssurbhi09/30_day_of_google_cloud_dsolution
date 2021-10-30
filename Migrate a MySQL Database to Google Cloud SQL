@@ -29,6 +29,7 @@ FLUSH PRIVILEGES;
 
 exit
 
+
 3RD TASK -----------------
 
 
@@ -46,3 +47,7 @@ cd /var/www/html/wordpress
 
 
 sudo nano wp-config.php
+
+
+Thankyou!
+:)
