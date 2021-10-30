@@ -231,3 +231,7 @@ assert errors == []
 
 python3 analyze-images.py $DEVSHELL_PROJECT_ID $DEVSHELL_PROJECT_ID
 
+
+
+Thankyou!
+:)
