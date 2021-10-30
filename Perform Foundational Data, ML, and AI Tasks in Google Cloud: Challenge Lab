@@ -11,3 +11,7 @@ cat lab.schema
 TASK 4 -------------------
 
 gsutil cp result.json gs://YOUR_PROJECT-marking/task4-cnl.result
+
+
+Thankyou!
+:)
